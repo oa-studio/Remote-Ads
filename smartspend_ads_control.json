@@ -1,0 +1,74 @@
+{
+  "app_id": "smartspend",
+  "app_name": "SmartSpend",
+  "package_name": "com.oa_studio.expensetracker",
+  "config_version": 1,
+  "updated_at": "2026-11-14T18:50:30.147Z",
+  "ads_enabled": true,
+  "banner": {
+    "admob": {
+      "enabled": true,
+      "id": ""
+    },
+    "inmobi": {
+      "enabled": true,
+      "id": ""
+    },
+    "startio": {
+      "enabled": false,
+      "id": ""
+    },
+    "priority": [
+      "admob",
+      "inmobi",
+      "startio"
+    ]
+  },
+  "interstitial": {
+    "admob": {
+      "enabled": false,
+      "id": ""
+    },
+    "inmobi": {
+      "enabled": false,
+      "id": ""
+    },
+    "startio": {
+      "enabled": false,
+      "id": ""
+    },
+    "priority": [
+      "admob",
+      "inmobi",
+      "startio"
+    ]
+  },
+  "native": {
+    "admob": {
+      "enabled": false,
+      "id": ""
+    },
+    "inmobi": {
+      "enabled": false,
+      "id": ""
+    },
+    "startio": {
+      "enabled": false,
+      "id": ""
+    },
+    "priority": [
+      "admob",
+      "inmobi",
+      "startio"
+    ]
+  },
+  "app_open": {
+    "admob": {
+      "enabled": false,
+      "id": ""
+    },
+    "priority": [
+      "admob"
+    ]
+  }
+}
