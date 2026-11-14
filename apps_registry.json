@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "SmartSpend",
+      "app_id": "smartspend",
+      "package_name": "com.oa_studio.expensetracker"
+    }
+  ]
+}
