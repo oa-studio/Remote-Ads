@@ -2,8 +2,8 @@
   "app_id": "smartspend",
   "app_name": "SmartSpend",
   "package_name": "com.oa_studio.expensetracker",
-  "config_version": 4,
-  "updated_at": "2026-11-15T00:08:10.386Z",
+  "config_version": 5,
+  "updated_at": "2026-11-15T11:20:36.156Z",
   "ads_enabled": true,
   "banner": {
     "admob": {
@@ -11,11 +11,11 @@
       "id": "ca-app-pub-3940256099942544/9214589741"
     },
     "inmobi": {
-      "enabled": true,
+      "enabled": false,
       "id": "10000843519"
     },
     "startio": {
-      "enabled": false,
+      "enabled": true,
       "id": ""
     },
     "priority": [
@@ -30,11 +30,11 @@
       "id": "ca-app-pub-3940256099942544/1033173712"
     },
     "inmobi": {
-      "enabled": true,
+      "enabled": false,
       "id": "10000843520"
     },
     "startio": {
-      "enabled": false,
+      "enabled": true,
       "id": ""
     },
     "priority": [
@@ -49,11 +49,11 @@
       "id": "ca-app-pub-3940256099942544/2247696110"
     },
     "inmobi": {
-      "enabled": true,
+      "enabled": false,
       "id": "10000843521"
     },
     "startio": {
-      "enabled": false,
+      "enabled": true,
       "id": ""
     },
     "priority": [
@@ -73,6 +73,6 @@
   },
   "sdk": {
     "inmobi_account_id": "a9b3489458174e4e9f6e137022c1cb85",
-    "startio_app_id": ""
+    "startio_app_id": "210310739"
   }
 }
