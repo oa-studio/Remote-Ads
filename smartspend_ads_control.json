@@ -2,8 +2,8 @@
   "app_id": "smartspend",
   "app_name": "SmartSpend",
   "package_name": "com.oa_studio.expensetracker",
-  "config_version": 7,
-  "updated_at": "2026-11-15T11:48:27.646Z",
+  "config_version": 8,
+  "updated_at": "2026-11-15T11:49:41.862Z",
   "ads_enabled": true,
   "banner": {
     "admob": {
