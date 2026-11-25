@@ -8,13 +8,13 @@
     "app_open": false
   },
   "startio": {
-    "banner": false,
-    "interstitial": false,
-    "native": false
-  },
-  "inmobi": {
     "banner": true,
     "interstitial": true,
     "native": true
+  },
+  "inmobi": {
+    "banner": false,
+    "interstitial": false,
+    "native": false
   }
 }
