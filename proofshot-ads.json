@@ -4,17 +4,14 @@
   "admob": {
     "banner": false,
     "interstitial": false,
-    "native": false,
     "app_open": false
   },
   "startio": {
     "banner": true,
-    "interstitial": true,
-    "native": true
+    "interstitial": true
   },
   "inmobi": {
     "banner": false,
-    "interstitial": false,
-    "native": false
+    "interstitial": false
   }
 }
