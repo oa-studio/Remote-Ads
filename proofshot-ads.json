@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "oa_studio.proofshot",
+  "admob": {
+    "banner": true,
+    "interstitial": true,
+    "native": false,
+    "app_open": true
+  },
+  "startio": {
+    "banner": false,
+    "interstitial": false,
+    "native": false
+  },
+  "inmobi": {
+    "banner": false,
+    "interstitial": false,
+    "native": false
+  }
+}
