@@ -2,15 +2,15 @@
   "schemaVersion": 1,
   "applicationId": "oa_studio.proofshot",
   "admob": {
-    "banner": true,
-    "interstitial": true,
-    "native": false,
-    "app_open": true
-  },
-  "startio": {
     "banner": false,
     "interstitial": false,
-    "native": false
+    "native": false,
+    "app_open": false
+  },
+  "startio": {
+    "banner": true,
+    "interstitial": true,
+    "native": true
   },
   "inmobi": {
     "banner": false,
