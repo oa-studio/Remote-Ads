@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "oa_studio.memotime",
+  "admob": {
+    "banner": true,
+    "interstitial": true,
+    "app_open": true
+  },
+  "startio": {
+    "banner": false,
+    "interstitial": false
+  },
+  "inmobi": {
+    "banner": false,
+    "interstitial": false
+  }
+}
